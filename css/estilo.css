@@ -2,7 +2,6 @@
 ***********************************/
 
 html, body, #home{
-	border: 1px solid red;
 	height: 100%;
 	overflow-x: hidden;
 
@@ -79,6 +78,10 @@ nav.navbar-transpatente{
 .btn-branco:hover{
 	background-color: white;
 	color: black;
+}
+
+.carousel-control-next, .carousel-control-prev{
+	width: 5%;
 }
 
 /* Estrutura conteudos**************************
